@@ -9,6 +9,8 @@ This is a exploratory and descriptive project to undestand what physical feature
 
 -Analize how those physical features affect the overall ranking.
 
+![fifa3](https://user-images.githubusercontent.com/74560416/158917309-783af52c-c8dd-4f0c-bc81-3d5d5e62b978.png)
+![fifa6](https://user-images.githubusercontent.com/74560416/158917423-cbb8169e-e9b9-48b0-b7ea-df634060b617.png)
 
 
 ## [Project 2: Variation of temperature around the world: Project Overview](https://github.com/Chelo-ad/Temperature_around_the_World/blob/main/README.md)
@@ -21,6 +23,7 @@ This project have as main objective understand how mean temperature per year is 
 
 -I selected the cities with most and less variation and made a comparison of that variation during the las years.
 
+![temp2](https://user-images.githubusercontent.com/74560416/158917384-1fe7a2c9-12de-431d-8249-a2d4065854c1.png)
 
 
 ## [Project 3: Amazon comments classifier: Project Overview](https://github.com/Chelo-ad/Comments_classifier/blob/main/README.md)
