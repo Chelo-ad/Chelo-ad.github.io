@@ -1,3 +1,8 @@
+# Adrián Buitrago Portafolio
+
+Data analyst in the process of becoming a  data scientist. 
+
+
 ## [Project 1: Fifa_best_players: : Project Overview](https://github.com/Chelo-ad/Fifa_best_players/blob/main/README.md)
 
 This is a exploratory and descriptive project to undestand what physical features have in common the best soccer players.
@@ -6,7 +11,7 @@ This is a exploratory and descriptive project to undestand what physical feature
 
 -Compare the physical aspects with the overall ranking: **Height**, **Main foot**, **Age**, **Weight**
 
--Analize how those physical features affect the overall ranking.
+-Analize how those physical features affect the overall ranking
 
 ![fifa3](https://user-images.githubusercontent.com/74560416/158917309-783af52c-c8dd-4f0c-bc81-3d5d5e62b978.png)
 
