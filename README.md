@@ -1,6 +1,3 @@
-# Adrián Buitrago Portafolio
-
-
 ## [Project 1: Fifa_best_players: : Project Overview](https://github.com/Chelo-ad/Fifa_best_players/blob/main/README.md)
 
 This is a exploratory and descriptive project to undestand what physical features have in common the best soccer players.
