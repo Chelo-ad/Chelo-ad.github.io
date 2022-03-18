@@ -1,4 +1,7 @@
 
+#Adrián Buitrago Portafolio
+
+
 ## [Project 1: Fifa_best_players: : Project Overview](https://github.com/Chelo-ad/Fifa_best_players/blob/main/README.md)
 
 This is a exploratory and descriptive project to undestand what physical features have in common the best soccer players.
@@ -10,7 +13,6 @@ This is a exploratory and descriptive project to undestand what physical feature
 -Analize how those physical features affect the overall ranking.
 
 ![fifa3](https://user-images.githubusercontent.com/74560416/158917309-783af52c-c8dd-4f0c-bc81-3d5d5e62b978.png)
-![fifa6](https://user-images.githubusercontent.com/74560416/158917423-cbb8169e-e9b9-48b0-b7ea-df634060b617.png)
 
 
 ## [Project 2: Variation of temperature around the world: Project Overview](https://github.com/Chelo-ad/Temperature_around_the_World/blob/main/README.md)
