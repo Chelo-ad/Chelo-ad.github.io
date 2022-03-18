@@ -22,7 +22,7 @@ This project have as main objective understand how mean temperature per year is 
 
 -I made a heat map to undertand how the temperature is distribute around the world.
 
--I calculated the variation of temperature during the year in the main cities around th globe
+-I calculated the variation of temperature during the year in the main cities around the globe
 
 -I selected the cities with most and less variation and made a comparison of that variation during the las years.
 
